@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722393290836",
+    "project_id": "doa-doa-harian-dbf4c",
+    "storage_bucket": "doa-doa-harian-dbf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722393290836:android:5451775df9f3104952f5c1",
+        "android_client_info": {
+          "package_name": "com.example.doa_doa_harian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722393290836-87d62h5cod3vobc3f7u33h8jju6unqfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-sscTQTVAtw-NzxsxW23rzyqrMgntko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722393290836-87d62h5cod3vobc3f7u33h8jju6unqfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
